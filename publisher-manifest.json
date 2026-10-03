@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "48240b719f5a64ae538456fc",
+  "owner": "uyfpwu",
+  "repo": "page-a579d4a11354e491f8bc3410",
+  "title": "凌云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a579d4a11354e491f8bc3410",
+      "a": "凌云",
+      "b": "",
+      "entity": "凌云",
+      "brand": "凌云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3adeb0509c0114645bfd88a4c01e9054d840354ff85075d12ec860e14f179ad3",
+      "content": {
+        "keyword1": "凌云",
+        "keyword2": "",
+        "primary_entity": "凌云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "凌云提供稳定高速的VPN梯子与机场订阅服务，支持多平台客户端官方下载，覆盖全球优质节点，适用于流媒体、游戏加速与跨境办公。欢迎访问凌云官网选购套餐并获取使用指南。",
+          "AI_DESCRIPTION": "凌云提供稳定高速的VPN梯子与机场订阅服务，支持多平台客户端官方下载，覆盖全球优质节点，适用于流媒体、游戏加速与跨境办公。欢迎访问凌云官网选购套餐并获取使用指南。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--purple:#6d28d9;--purple-dark:#5b21b6;--gray:#f4f4f5;--text:#18181b;--muted:#3f3f46;--white:#fff}*{box-sizing:border-box;margin:0;padding:0}html{max-width:100%}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:var(--gray);color:var(--text);font-size:16px;line-height:1.65;overflow-x:hidden}p,li,a,h1,h2,h3,summary{word-wrap:break-word}a{color:var(--purple-dark)}.wrap{max-width:1100px;margin:0 auto;padding:0 16px}header{background:var(--white);border-bottom:1px solid #e4e4e7;padding:12px 0}nav{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;justify-content:space-between}.logo{font-weight:700;font-size:1.2rem;color:var(--purple);text-decoration:none}.nav-links{display:flex;flex-wrap:wrap;gap:12px}.nav-links a{color:var(--muted);text-decoration:none;font-size:.95rem}.hero{background:#ede9fe;padding:44px 16px;text-align:center}h1{font-size:1.8rem;color:var(--purple-dark);margin-bottom:12px}.hero p{max-width:680px;margin:0 auto 20px;color:var(--muted)}.btn{display:inline-block;background:var(--purple);color:#fff;padding:10px 22px;border-radius:8px;text-decoration:none;font-weight:600}section{padding:36px 0}h2{font-size:1.45rem;color:var(--purple-dark);margin-bottom:14px;border-left:4px solid var(--purple);padding-left:10px}h3{font-size:1.12rem;color:#27272a;margin:14px 0 8px}.stagger{display:flex;flex-direction:column;gap:20px}.card{background:var(--white);border-radius:12px;padding:18px;box-shadow:0 1px 3px rgba(0,0,0,.06)}.plans{display:flex;flex-direction:column;gap:16px}.featured{border:2px solid var(--purple)}.tag{display:inline-block;background:var(--purple);color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}ul{padding-left:20px;margin:8px 0}li{margin-bottom:6px}.price{font-size:1.35rem;font-weight:700;color:var(--purple)}.muted{color:var(--muted);font-size:.95rem}.clients{display:grid;grid-template-columns:1fr;gap:12px}.client-item{background:#fff;padding:16px;border-radius:8px;border:1px solid #e4e4e7}.steps{background:#fff;border-radius:12px;padding:18px}details{background:#fff;border-radius:8px;margin-bottom:10px;padding:0 16px;border:1px solid #e4e4e7}summary{font-weight:600;padding:12px 0;color:var(--purple-dark)}details p{padding-bottom:12px;color:var(--muted)}.ads{background:#faf5ff;border:1px dashed var(--purple);padding:16px;text-align:center;margin:8px 0 20px;border-radius:8px}.friends{display:flex;flex-wrap:wrap;gap:12px 18px}footer{background:#27272a;color:#d4d4d8;padding:28px 16px;font-size:.9rem}footer a{color:#c4b5fd;text-decoration:none}@media(min-width:768px){.stagger{flex-direction:row;align-items:flex-start}.stagger.reverse{flex-direction:row-reverse}.stagger>*{flex:1}h1{font-size:2.15rem}.plans{flex-direction:row}.plans .card{flex:1}.clients{grid-template-columns:1fr 1fr 1fr}}</style><header><div class=\"wrap\"><nav><a class=\"logo\" href=\"#\">凌云官网</a><div class=\"nav-links\"><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></div></nav></div></header><main><section class=\"hero\"><div class=\"wrap\"><h1>凌云官方网站</h1><p>凌云提供VPN梯子、机场订阅与网络加速服务。本站为凌云官方网站，集中展示套餐、节点能力与多平台客户端官方下载，帮助你稳定访问、流畅观影与低延迟游戏。</p><a class=\"btn\" href=\"#clients\">前往客户端选择</a></div></section><section id=\"about\"><div class=\"wrap\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"card\"><p>凌云是面向个人用户与小团队的网络加速品牌，核心产品为机场订阅与配套客户端。用户通过订阅获取可用节点，再在电脑、手机或路由器中导入配置，即可按需切换线路完成加密转发。</p><p>凌云官网只提供公开可核验的套餐说明与使用路径，不捆绑来源不明的安装包。建议始终从本页客户端选择区域获取对应系统指引，再导入你的专属订阅，避免第三方渠道篡改配置。</p></div><div class=\"card\"><h3>服务要点</h3><ul><li>自建与精选节点池，覆盖亚洲、北美与欧洲常用区域</li><li>普通线路与 IPLC 专线分层，兼顾日常浏览与游戏加速</li><li>订阅可导入主流 Clash、V2Ray 及移动端规则客户端</li><li>按月流量配额清晰，年付可锁定当前价位</li><li>旗舰版与团队版提供优先工单与更高并发设备数</li></ul></div></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐方案</h2><p class=\"muted\">以下为凌云官网当前公开套餐，流量按自然月重置，设备数为同时在线上限。购买后即可在客户端中更新订阅。</p><div class=\"plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"card\"><h3>跨境办公与协作</h3><p>远程会议、企业邮箱与代码仓库在跨境链路下容易抖动。凌云通过智能分流把办公域名走稳定节点，其余流量保持直连，减少整网代理带来的额外开销。</p></div><div class=\"card\"><h3>流媒体、资料与游戏</h3><p>旗舰版强调原生流媒体解锁与 IPLC 游戏优化，适合长时间观影、检索海外文献以及需要更低延迟的对战或登录场景。团队版则把高带宽节点预留给多人同时在线。</p></div></div></div></section><section id=\"clients\"><div class=\"wrap\"><h2>客户端选择与官方下载</h2><p class=\"muted\">凌云不绑定单一 App。你可按系统选择官方推荐客户端，再用订阅链接一键更新节点。以下为官网整理的常用组合，安装包请仅通过正版客户端站点获取。</p><div class=\"clients\"><div class=\"client-item\"><h3>Windows</h3><p>推荐 Clash Verge 或 v2rayN。导入订阅后开启系统代理，按延迟或规则选择节点。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"client-item\"><h3>macOS</h3><p>推荐 ClashX Meta 或 Surge。适合菜单栏快速切换，可配合分流规则减少国内站点绕路。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"client-item\"><h3>Android</h3><p>推荐 Clash Meta for Android。支持按应用分流，后台稳定性较好，适合长期挂机。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"client-item\"><h3>iOS</h3><p>推荐 Shadowrocket 或 Quantumult X（需自行准备商店账号）。导入机场订阅后启用规则模式。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"client-item\"><h3>Linux 与终端</h3><p>可使用 clash-meta 或 sing-box 订阅运行。适合服务器转发与开发环境固定出口。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"client-item\"><h3>路由器</h3><p>OpenWrt 等固件可订阅同一链接，让家庭设备共享加速。注意设备数计入套餐上限。</p><p><a href=\"#plans\">核对套餐设备数</a></p></div></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"steps\"><h3>1. 在官网确认套餐</h3><p>根据流量、设备数与是否需要 IPLC、流媒体解锁选择基础版、旗舰版或团队版。年付价格已在套餐卡中标明。</p><h3>2. 获取机场订阅链接</h3><p>完成开通后，用户中心会给出通用订阅地址。请复制完整链接，不要截断参数，也不要公开分享，以免流量被占用。</p><h3>3. 下载并安装客户端</h3><p>回到客户端选择区，按操作系统安装对应软件。凌云官方下载指引只指向正版客户端，不提供来路不明的打包文件。</p><h3>4. 导入订阅并更新节点</h3><p>在客户端选择“从 URL 导入”或“订阅管理”，粘贴链接后更新。成功后应看到香港、日本、新加坡、美国等分组节点。</p><h3>5. 选择规则与测试连通</h3><p>日常建议规则模式：国内直连、跨境走代理。先访问需要加速的站点或游戏，再按延迟与丢包微调节点。若设备超限，请在已登录终端中断开多余连接。</p></div></div></section><section id=\"nodes\"><div class=\"wrap\"><h2>节点与加速能力</h2><div class=\"card\"><p>凌云节点按用途划分：普通线路适合网页与即时通讯；高带宽节点适合大文件与 4K 缓冲；IPLC 专线面向对延迟敏感的游戏与远程桌面。实际速度受本地宽带、时段与目标站影响，建议在客户端内多次测速后收藏稳定线路。</p><p>流媒体方面，基础版覆盖常见地区库的基础解锁；旗舰版与团队版强调全节点原生解锁策略，减少跳转失败。若某平台临时变更检测，可通过切换同区域备用节点或更新客户端规则恢复。</p></div></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>凌云是什么？和普通 VPN 有何不同？</summary><p>凌云是提供机场订阅的网络加速服务。与单一 App 内置线路不同，你可以把同一份订阅导入电脑、手机或路由器上的主流客户端，自行选择节点、规则和分流方式，更适合同时使用多台设备的用户。</p></details><details><summary>如何在凌云官网完成客户端下载？</summary><p>进入本页「客户端选择与官方下载」区域，按 Windows、macOS、Android、iOS、Linux 或路由器查看推荐软件。安装正版客户端后，用你的机场订阅链接导入即可，无需寻找来路不明的安装包。</p></details><details><summary>各套餐同时在线设备数如何计算？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台，统计的是同一时刻保持连接的终端。电脑、手机、平板和路由器都会占用名额。超出后新设备可能无法握手，断开闲置会话即可恢复。</p></details><details><summary>流量用尽或速度变慢时该怎么处理？</summary><p>流量按自然月重置，用尽后需等待下个周期或升级套餐。速度波动多与晚高峰或目标站限制有关，可更换同区域节点、切换 IPLC（旗舰版及以上）或检查本地是否开启了冲突的系统代理。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版提供基础流媒体解锁与普通线路。旗舰版包含全节点原生流媒体解锁和 IPLC 专线游戏加速优化，更适合观影与对延迟敏感的游戏。团队版在此基础上提供更高带宽与定制路由。</p></details><details><summary>如何确认自己访问的是凌云官方网站？</summary><p>请核对浏览器地址栏为凌云官网域名，并以本页公示的套餐名称、价格与客户端说明为准。不要轻信即时通讯里的代充或镜像下载。订阅仅在你本人的用户中心生成，官方不会主动索要密码。</p></details></div></section><section><div class=\"wrap\"><div class=\"ads\"><h2>合作信息</h2><p>凌云官网可展示与云主机、域名解析相关的文字合作信息。如需高带宽入口或企业专线咨询，请通过套餐页的团队版说明联系客户经理。</p><p><a href=\"#plans\">查看团队版服务</a></p></div><h2>友情链接</h2><div class=\"friends\"><a href=\"#\">网络工具导航</a><a href=\"#\">云服务入门</a><a href=\"#\">开发者文档汇</a><a href=\"#\">隐私与加密阅读</a><a href=\"#\">全球节点测速</a></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>凌云官方网站 · VPN梯子网络加速与客户端下载</p><p><a href=\"#\">网站地图</a> · <a href=\"#about\">关于凌云</a> · <a href=\"#clients\">官方下载</a> · <a href=\"#faq\">帮助中心</a></p><p>内容仅供网络加速产品说明，请遵守所在地区法律法规与目标网站条款。节点可用性会随线路调整而变化，请以客户端实时列表为准。</p></div></footer>",
+          "hash": "af8dd537af6b2a616011647acd5d2baa45cfd4ffe05677d1a99a5042f00ae4dc",
+          "seo": {
+            "title": "凌云官方网站 - VPN梯子网络加速与客户端下载",
+            "keywords": "凌云,凌云VPN,凌云机场,VPN梯子,网络加速器,客户端下载,官网下载,机场订阅,科学上网加速",
+            "description": "凌云提供稳定高速的VPN梯子与机场订阅服务，支持多平台客户端官方下载，覆盖全球优质节点，适用于流媒体、游戏加速与跨境办公。欢迎访问凌云官网选购套餐并获取使用指南。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "b2fg2h.cn",
+    "host": "p-7a161141c3.b2fg2h.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "b2fg2h.cn",
+      "url": "https://b2fg2h.cn/",
+      "label": "苏打(Suda)",
+      "apex": "b2fg2h.cn",
+      "kind": null,
+      "identity": "rybrewsmsrc/page-3b504d2108dfd6d9b9698e09"
+    },
+    {
+      "host": "550wl.cn",
+      "url": "https://550wl.cn/",
+      "label": "凌云",
+      "apex": "550wl.cn",
+      "kind": null,
+      "identity": "rtparg/page-3fcc2ba6c2e74f36d27a84f9"
+    },
+    {
+      "host": "614jea.cn",
+      "url": "https://614jea.cn/",
+      "label": "凌云",
+      "apex": "614jea.cn",
+      "kind": null,
+      "identity": "an6dhm/page-d22de0617dc5af1ae157b54b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9dc20e94e157a05035122e6a7a48fac9c3da8ffed43b39317185d9a56a85fe82",
+    "sitemap.xml": "ecc54fab385681daa94c55fa87f14faa35e7f4fb2f3279f6d5968496ea4b5db4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "66ac099a43501f0d20d67805dc42573b8b6ae91424296cd702154ae9de90084b",
+    "robots.txt": "9c2b079e30df496cb9fc5757b645d5c642f74406c9bd11e6d986f8673e5896be",
+    "a323086cbfae6db3a49b3009a22235bf.txt": "2f0ad3714e8f6b3429b70778c3c6ad6979cc6540ee8bc7d859b36739b40dec4e"
+  },
+  "revision": "21de7fd25b8039333792ecc08e2c18f935855b7df3a6e17dd1db98320804739d"
+}
